@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server=192.168.10.93;database=VideoGame;user=video-game-admin;password=000000"
+  }
+}
