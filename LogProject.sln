@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogProject", "LogProject\LogProject.csproj", "{6B7FADAA-D388-4ACA-9E95-FB415C195479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogProject", "LogProject\LogProject.csproj", "{6B7FADAA-D388-4ACA-9E95-FB415C195479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeProject", "PracticeProject\PracticeProject.csproj", "{96195EFB-3ACF-4099-A67F-861266A9F094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticeProject", "PracticeProject\PracticeProject.csproj", "{96195EFB-3ACF-4099-A67F-861266A9F094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theme34Lesson6", "Theme34Lesson6\Theme34Lesson6.csproj", "{B64937C3-2C9D-4583-9683-6BB44CF7D7EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{96195EFB-3ACF-4099-A67F-861266A9F094}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96195EFB-3ACF-4099-A67F-861266A9F094}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96195EFB-3ACF-4099-A67F-861266A9F094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64937C3-2C9D-4583-9683-6BB44CF7D7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64937C3-2C9D-4583-9683-6BB44CF7D7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64937C3-2C9D-4583-9683-6BB44CF7D7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64937C3-2C9D-4583-9683-6BB44CF7D7EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
