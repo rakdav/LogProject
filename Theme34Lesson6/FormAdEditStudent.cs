@@ -12,9 +12,15 @@ namespace Theme34Lesson6
 {
     public partial class FormAdEditStudent : Form
     {
-        public FormAdEditStudent()
+        public FormAdEditStudent(Student student)
         {
             InitializeComponent();
+            if(student.Id != 0 ) 
+            {
+                textBoxFirstName.Text = student.FirstName;
+                textBoxLastName.Text = student.LastName;
+                numericUpDownФпу.Value=student.Age;
+            }
         }
     }
 }

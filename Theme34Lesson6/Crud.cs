@@ -48,7 +48,6 @@ namespace Theme34Lesson6
                 student!.FirstName = _student.FirstName;
                 student.LastName=_student.LastName;
                 student.Age = _student.Age;
-                db.Students.Update(student);
                 await db.SaveChangesAsync();
             }
         }
